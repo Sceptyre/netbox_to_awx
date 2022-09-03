@@ -1,4 +1,5 @@
 plugin: netbox.netbox.nb_inventory
+api_endpoint: {{ netbox_api_endpoint }}
 validate_certs: True
 config_context: False
 group_by:
