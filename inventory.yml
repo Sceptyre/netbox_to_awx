@@ -4,3 +4,7 @@ validate_certs: True
 config_context: False
 group_by:
   - device_roles
+
+env:
+  NETBOX_API: '{{ NETBOX_API }}'
+  NETBOX_TOKEN: '{{ NETBOX_TOKEN }}'
