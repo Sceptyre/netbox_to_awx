@@ -1,6 +1,4 @@
 plugin: netbox.netbox.nb_inventory
-api_endpoint: http://192.168.0.35
-token: "0123456789abcdef0123456789abcdef01234567"
 validate_certs: True
 config_context: False
 group_by:
