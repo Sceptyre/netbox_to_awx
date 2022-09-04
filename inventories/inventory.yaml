@@ -1,5 +1,5 @@
 plugin: netbox.netbox.nb_inventory
-group_prefix: nbx_
+prefix: nbx_
 validate_certs: True
 config_context: False
 group_by:
