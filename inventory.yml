@@ -5,3 +5,4 @@ group_by:
   - device_roles
   - sites
   - tenants
+  - device_types
