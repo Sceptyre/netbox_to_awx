@@ -6,3 +6,4 @@ group_by:
   - sites
   - tenants
   - device_types
+  - is_virtual
