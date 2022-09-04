@@ -4,7 +4,3 @@ config_context: False
 group_by:
   - device_roles
   - sites
-  - region
-  - is_virtual
-  - cluster
-  - tenant
