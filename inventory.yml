@@ -2,8 +2,8 @@ plugin: netbox.netbox.nb_inventory
 validate_certs: True
 config_context: False
 group_by:
-  - device_role
-  - site
+  - device_roles
+  - sites
   - region
   - is_virtual
   - cluster
