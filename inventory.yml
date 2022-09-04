@@ -4,3 +4,4 @@ config_context: False
 group_by:
   - device_roles
   - sites
+  - tenants
