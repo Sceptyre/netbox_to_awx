@@ -10,5 +10,6 @@ group_by:
   - is_virtual
   - platforms
   - cluster
+  - tags
 compose:
  ansible_network_os: platform.slug
