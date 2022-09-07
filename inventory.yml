@@ -9,5 +9,6 @@ group_by:
   - device_types
   - is_virtual
   - platforms
+  - cluster
 compose:
  ansible_network_os: platform.slug
